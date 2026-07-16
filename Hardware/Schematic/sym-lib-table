@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "2026-07-04_18-16-40") (type "KiCad") (uri "${KIPRJMOD}/../Libraries/eMMC_KLM8G1GETF-B041.kicad_sym") (options "") (descr ""))
+	(lib (name "LCD_MIPI_DSI") (type "KiCad") (uri "${KIPRJMOD}/../Libraries/LCD_MIPI_DSI.kicad_sym") (options "") (descr "Custom 40-pin FPC, 4-lane MIPI DSI TFT LCD with integrated CTP touch controller"))
+)
